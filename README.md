@@ -7,4 +7,4 @@ Frontend Developer: Legaspi, Lawrence S.
 UI Designer: Alcantara, Ishen
 Documentation: Dela Cruz, Princess Joy Ann M.
 
-Favorite Movie: Interstellar (Icel)
+Favorite Food: Banana (Lawrence)
