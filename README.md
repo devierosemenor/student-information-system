@@ -6,3 +6,5 @@ Backend Developer: Bagares, Christian Icel V.
 Frontend Developer: Legaspi, Lawrence S.
 UI Designer: Alcantara, Ishen
 Documentation: Dela Cruz, Princess Joy Ann M.
+
+Favorite Food: Banana (Lawrence)
